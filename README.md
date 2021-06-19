@@ -1,1 +1,1 @@
-# Predicting-Marketing-Strategy
+# Informed-Marketing-Strategy
